@@ -1,3 +1,4 @@
+<img width="1366" height="631" alt="{FCCB0EB7-DE52-44B0-8E2D-51A0C3AEC421}" src="https://github.com/user-attachments/assets/7d2558ab-2307-450e-ac55-0a7f0c458b0d" />
 # XEX Browser — Xbox 360 Marketplace Replacement
 ## Full Project Package & Developer Guide
 
