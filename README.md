@@ -172,7 +172,7 @@ If you want to turn this concept into an actual Xbox 360 application, here is wh
 
 ### Required Tools & Knowledge
 1. **Xbox 360 Development Kit (XDK)** — Microsoft's official SDK (requires license)
-   - OR **Homebrew SDK** — devkitPPC / free60 toolchain (open source)
+   - OR **Homebrew SDK** — Xenon Toolchain + libXenon / free60 toolchain (open source)
 2. **PowerPC Cross-Compiler** — Xbox 360 uses IBM Xenon (PowerPC architecture)
 3. **C/C++ Programming** — XEX applications are typically written in C or C++
 4. **Xbox 360 Kernel APIs** — For file I/O, networking, GPU rendering
@@ -219,7 +219,7 @@ xex-browser.xex (C++ / PowerPC)
 
 1. **Game Distribution** — Downloading games you do not own is illegal in most countries. Only download games you already own physical copies of (format shifting/backup).
 2. **Console Modding** — Modifying your Xbox 360 console voids any warranty and may violate terms of service. JTAG/RGH modifications are for educational and backup purposes only.
-3. **XEX Development** — Creating homebrew for Xbox 360 requires either a licensed XDK or the open-source devkitPPC toolchain. Distributing XDK-compiled software may violate Microsoft's EULA.
+3. **XEX Development** — Creating homebrew for Xbox 360 requires either a licensed XDK or Xenon Toolchain + libXenon / free60 toolchain (open source). Distributing XDK-compiled software may violate Microsoft's EULA.
 
 ---
 
